@@ -61,6 +61,7 @@ See the [Performance dashboard](https://performance-dot-grpc-testing.appspot.com
 See [gRPC Concepts](CONCEPTS.md)
 
 # About This Repository
+Исрпавляю опечатку
 
 This repository contains source code for gRPC libraries implemented in multiple languages written on top of a shared C core library [src/core](src/core).
 
